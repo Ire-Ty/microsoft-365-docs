@@ -99,7 +99,7 @@ To learn more, see [Exchange Online service description](/office365/servicedescr
 
 #### Teams
 
-F3 and F1 plans with Teams include the Teams desktop app, mobile app, and web app for frontline worker communication and collaboration. With an F3 or F1 plan that includes Teams, your frontline workers have access to Teams features including meetings, chat, channels, content, and apps. However, they won't be able to use Teams Phone capabilities without the purchase of an additional add-on.
+F3 and F1 plans with Teams include the Teams mobile app, and web app for frontline worker communication and collaboration. With an F3 or F1 plan that includes Teams, your frontline workers have access to Teams features including meetings, chat, channels, content, and apps. However, they won't be able to use Teams Phone capabilities without the purchase of an additional add-on.
 
 |Service or feature|Microsoft 365 E3/E5 (no Teams)|Microsoft 365 F3 (with Teams)|Microsoft 365 F3 (no Teams)|Microsoft 365 F1 (with Teams)|Microsoft 365 F1 (no Teams)|
 |---------|---------|---------|---------|---------|---------|
